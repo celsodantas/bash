@@ -6,7 +6,7 @@ Just clone this repository to `~/.bash` and
 add the following line to your `~/.bash_profile`
 or equivalent file:
 
-  source ~/.bash/init.sh
+	source ~/.bash/init.sh
 
 # Git config
 
