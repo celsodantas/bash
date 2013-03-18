@@ -1,5 +1,6 @@
 alias gl="git log --graph --pretty='format:%C(yellow)%h%C(cyan)%d%Creset %s => %C(green)%an%C(white), %C(red)%ar%Creset'"
 alias gs="git status"
+alias be="bundle exec"
 alias cleanup="sudo rm -rf /private/var/log/asl/*"
 alias growl="growlnotify"
 alias js="java -jar $HOME/Library/Java/Extensions/js.jar -opt -1"
