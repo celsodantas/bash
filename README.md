@@ -30,3 +30,11 @@ Cool thing to add is some Git colors. Just copy this to your `~/.gitconfig` file
 		added = yellow
 		changed = green
 		untracked = cyan
+
+# Gem
+
+To disable ri and Rdoc instalation when installing gems, add this to `~/.gemrc` file:
+
+	-ri --no-rdoc
+
+	
